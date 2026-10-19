@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Kevin Sanders, DMD - Sanders Family Dentistry",
+  "description": "Comprehensive, modern cosmetic and family dentistry in Tallahassee, FL by Dr. Kevin Sanders, DMD. State-of-the-art restorative, preventative, and aesthetic dental care.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
